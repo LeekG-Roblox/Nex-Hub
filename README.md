@@ -18,9 +18,9 @@
 
  [![Fish It](https://img.shields.io/badge/Fish%20It-v1.2-6BBF59?style=for-the-badge)](./) [![Upload](https://img.shields.io/badge/19%2F10%2F26-555555?style=flat-square)](./)
  
- [![SAE](https://img.shields.io/badge/SAE%20(Steal%20An%20Egg)-v1.6-6BBF59?style=for-the-badge)](./) [![Upload](https://img.shields.io/badge/19%2F10%2F26-555555?style=flat-square)](./)
+ [![SAE](https://img.shields.io/badge/SAE%20(St3al%20An%20Egg)-v1.6-6BBF59?style=for-the-badge)](./) [![Upload](https://img.shields.io/badge/19%2F10%2F26-555555?style=flat-square)](./)
  
- [![VD](https://img.shields.io/badge/VD%20(Violence%20District)-v1.5.9-6BBF59?style=for-the-badge)](./) [![Upload](https://img.shields.io/badge/20%2F10%2F26-555555?style=flat-square)](./)
+ [![VD](https://img.shields.io/badge/VD%20(Violel3nce%20Dis3rict)-v1.5.9-6BBF59?style=for-the-badge)](./) [![Upload](https://img.shields.io/badge/20%2F10%2F26-555555?style=flat-square)](./)
 
 ## License
 
